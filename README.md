@@ -25,6 +25,7 @@ I value continuous improvement, clear problem-solving, and writing code that is 
 
 ### Tools & Workflow
 - Git & GitHub
+- Next
 - Vite
 - npm
 - Chrome DevTools
