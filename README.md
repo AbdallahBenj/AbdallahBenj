@@ -52,8 +52,8 @@ Each project focuses on clean code, reusable patterns, and real-world use cases.
 
 ## 📫 Contact
 
-- GitHub: [your-github-username]
-- Email: [your-email]
+- GitHub: [github-username]
+- Email: [email]
 
 ---
 
