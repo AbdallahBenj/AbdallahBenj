@@ -21,7 +21,7 @@ I value continuous improvement, clear problem-solving, and writing code that is 
 - CSS3 (Flexbox, Grid, Responsive Design, Animations)
 - JavaScript (ES6+, DOM Manipulation, Events)
 - **React** (Hooks, Router, Forms, Performance Optimization)
-- **Tailwind CSS** and **TypeScript**
+- **TypeScript** and **Tailwind CSS**
 
 ### Tools & Workflow
 - Git & GitHub
