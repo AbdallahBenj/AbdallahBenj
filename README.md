@@ -3,6 +3,12 @@
 💻 Front-End Web Developer  
 🌍 Based in The world
 
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8)
+
 ---
 
 ## 🚀 About Me
